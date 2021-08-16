@@ -36,6 +36,13 @@ Assignment | Date Assigned | Due Date
 ---------- | ------------- | -------- 
 Content from cell 1 | Content from cell 2  | Content from cell 3 
 
+## Evaluation
+
+To graduate from this program you must meet the following requirements:
+*
+*
+*
+
 Things to include during curriculum development:
 1. CourseKata intro about Understanding
 2. What is the tech industry? Discussing the different types of roles in more detail
