@@ -1,6 +1,6 @@
 # Hack the Hood's Tech Foundations
 
-![Tech Photo](/images/intro.png)
+<img alt="Intro to Tech" src="/images/intro.png" width="100%">
 
 Things to include during curriculum development:
 1. CourseKata intro about Understanding
