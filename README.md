@@ -13,7 +13,7 @@ In this eight-week program, learners explore the **command line/terminal** to be
 * Demonstrate understanding of the terminal/CLI by navigating the filesystem, creating files/folders, and installing packages
 * Demonstrate understanding of fundamental python concepts (Data Types, Data Structures, Variables, Operators, Iteration, Functions, Classes, etc ...) through usage in project-based learning
 * Demontrate initial understanding of using different file types (JSON, CSV, TXT, etc ...) to generate inputs/outputs using python
-* Apply fundamental coding skills to simple web development and management requirements 
+* Apply fundamental coding skills to simple development and management requirements 
 * Communicate with and about human-centered technical problems and possibilities
 * Differentiate pathway types for entrepreneurial ventures that leverage technology in effective and practical ways
 
