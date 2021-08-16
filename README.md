@@ -39,9 +39,9 @@ Content from cell 1 | Content from cell 2  | Content from cell 3
 ## Evaluation
 
 To graduate from this program you must meet the following requirements:
-* Requirement
-* Requirement
-* Requirement
+* 
+* 
+* 
 
 Things to include during curriculum development:
 1. CourseKata intro about Understanding
