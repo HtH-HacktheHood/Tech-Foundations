@@ -17,6 +17,13 @@ In this eight-week program, learners explore the **command line/terminal** to be
 * Communicate with and about human-centered technical problems and possibilities
 * Differentiate pathway types for entrepreneurial ventures that leverage technology in effective and practical ways
 
+## Schedule
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
 
 Things to include during curriculum development:
 1. CourseKata intro about Understanding
