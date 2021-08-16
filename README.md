@@ -28,7 +28,13 @@ Class | Date | Topic | Activities
 ----- | ---- | ----- | ----------
 Content from cell 1 | Content from cell 2  | Content from cell 3 | Content from cell 4
 
+## Assignment Schedule
 
+All assignments are due by the start of your program session **(10am or 3pm)**  on the due date stated.
+
+Assignment | Date Assigned | Due Date
+---------- | ------------- | -------- 
+Content from cell 1 | Content from cell 2  | Content from cell 3 
 
 Things to include during curriculum development:
 1. CourseKata intro about Understanding
