@@ -24,10 +24,10 @@ In this eight-week program, learners explore the **command line/terminal** to be
 * **Morning Session** 10am - 1pm
 * **Evening Session** 3pm - 6pm
 
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+Class | Date | Topic | Activities
+----- | ---- | ----- | ----------
+Content from cell 1 | Content from cell 2  | Content from cell 3 | Content from cell 4
+
 
 
 Things to include during curriculum development:
