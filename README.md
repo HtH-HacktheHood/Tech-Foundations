@@ -4,7 +4,7 @@
 
 ## Program Description
 
-In this eight-week program, learners explore fundamental coding skills via the Python language. All learners graduate with these technical skills, an introductory Github portfolio, and information about career pathways in technology. No experience is required. Participants will have the opportunity to hear from corporate partners and to engage in conversations with technologists from varied backgrounds.
+In this eight-week program, learners explore the command line/terminal to become more familiar with navigating a computer while building fundamental coding skills via the Python language. All learners graduate with these technical skills, an introductory Github portfolio, and information about career pathways in technology. No experience is required. Participants will have the opportunity to hear from corporate partners and to engage in conversations with technologists from varied backgrounds.
 
 
 
