@@ -53,4 +53,5 @@ Things to include during curriculum development:
 3. Discuss installations of homebrew, github, python, etc ...
 4. Discuss navigating the terminal, bash_profile, virtual environments
 5. Connecting Lauren's sociotechnical content with each module
-6.
+6. Kahoot Pre/Mid/Post Diagnostics
+7. 
