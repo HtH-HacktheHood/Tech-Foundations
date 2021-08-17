@@ -47,10 +47,6 @@ To graduate from this program you must meet the following requirements:
 
 **Office Hours:**
 
-## Additional Resources
-
-Any additional resources you may need (online books, etc ...) can be found here.
-
 Things to include during curriculum development:
 1. CourseKata intro about Understanding
 2. What is the tech industry? Discussing the different types of roles in more detail
