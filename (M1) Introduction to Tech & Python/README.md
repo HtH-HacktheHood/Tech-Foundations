@@ -15,6 +15,14 @@ Before we get started however, here's something for you to think about. Learning
 * Demonstrate understanding of the computer's terminal by navigating the file system and executing commands within the CLI
 * Understand what tools are commonly used within the tech industry and be able to install and demonstrate usage of these tools (**integrated development environment**, **object-orient programming language**, etc ...)
 
+## Assignment Schedule
+
+All assignments are due by the start of your program session **(10am or 3pm)**  on the due date stated.
+
+Assignment | Date Assigned | Due Date
+---------- | ------------- | -------- 
+Content from cell 1 | Content from cell 2  | Content from cell 3 
+
 ## Additional Resources
 
 Any additional resources you may need (online books, etc ...) can be found here.
