@@ -26,3 +26,5 @@ Content from cell 1 | Content from cell 2  | Content from cell 3
 ## Additional Resources
 
 Any additional resources you may need (online books, etc ...) can be found here.
+
+**[HtH Community Norms Examples](https://docs.google.com/document/d/1OXsOziwQqIKLQ-wkS7Uu1WkNJPytA05Uokyq_GjRPyI/edit?usp=sharing)**
