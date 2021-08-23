@@ -21,7 +21,7 @@ All assignments are due by the start of your program session **(10am or 3pm)**  
 
 Assignment | Date Assigned | Due Date
 ---------- | ------------- | -------- 
-Content from cell 1 | Content from cell 2  | Content from cell 3 
+**[Researching Your Career Interest!](https://docs.google.com/document/d/1WGQQL_viwHmGucSaAt36F9sognnf1rOkqoBbvLdVte0/edit?usp=sharing)** | October 5, 2021  | October 6, 2021 
 
 ## Additional Resources
 
