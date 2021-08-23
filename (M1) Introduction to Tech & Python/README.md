@@ -29,4 +29,4 @@ Any additional resources you may need (online books, etc ...) can be found here.
 
 **[HtH Community Norms Examples](https://docs.google.com/document/d/1OXsOziwQqIKLQ-wkS7Uu1WkNJPytA05Uokyq_GjRPyI/edit?usp=sharing)**
 
-**[Bukola's Youtube Channel](https://www.youtube.com/channel/UC-bFgwL_kFKLZA60AiB-CCQ) - Bukola is a software engineer and content creator living in New York City. On her youtube channel, she provides a lot of useful analysis of different parts and elements of the technology/software industry.** 
+**[Bukola's Youtube Channel](https://www.youtube.com/channel/UC-bFgwL_kFKLZA60AiB-CCQ)** - Bukola is a software engineer and content creator living in New York City. On her youtube channel, she provides a lot of useful analysis of different parts and elements of the technology/software industry.
