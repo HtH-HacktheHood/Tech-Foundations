@@ -24,9 +24,9 @@ In this eight-week program, learners explore the **command line/terminal** to be
 * **Morning Session** 10am - 1pm
 * **Evening Session** 3pm - 6pm
 
-Class | Date | Topic | Activities
------ | ---- | ----- | ----------
-Content from cell 1 | Content from cell 2  | Content from cell 3 | Content from cell 4
+Date | Topic | Activities
+---- | ----- | ----------
+Content from cell 1 | Content from cell 2  | Content from cell 3
 
 ## Assignment Schedule
 
@@ -34,7 +34,7 @@ All assignments are due by the start of your program session **(10am or 3pm)**  
 
 Assignment | Date Assigned | Due Date
 ---------- | ------------- | -------- 
-Content from cell 1 | Content from cell 2  | Content from cell 3 
+**[Researching Your Career Interest!](https://docs.google.com/document/d/1WGQQL_viwHmGucSaAt36F9sognnf1rOkqoBbvLdVte0/edit?usp=sharing)** | October 5, 2021  | October 6, 2021 
 
 ## Evaluation
 
@@ -49,9 +49,7 @@ To graduate from this program you must meet the following requirements:
 
 Things to include during curriculum development:
 
-2. What is the tech industry? Discussing the different types of roles in more detail
 3. Discuss installations of homebrew, github, python, etc ...
 4. Discuss navigating the terminal, bash_profile, virtual environments
-5. Connecting Lauren's sociotechnical content with each module
 6. Kahoot Pre/Mid/Post Diagnostics
 7. 
