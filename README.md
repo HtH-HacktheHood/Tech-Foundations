@@ -50,6 +50,5 @@ To graduate from this program you must meet the following requirements:
 Things to include during curriculum development:
 
 3. Discuss installations of homebrew, github, python, etc ...
-4. Discuss navigating the terminal, bash_profile, virtual environments
 6. Kahoot Pre/Mid/Post Diagnostics
 7. 
