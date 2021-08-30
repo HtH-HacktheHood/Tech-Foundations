@@ -32,8 +32,11 @@ Any additional resources you may need (online books, etc ...) can be found here.
 
 **[Bukola's Youtube Channel](https://www.youtube.com/channel/UC-bFgwL_kFKLZA60AiB-CCQ)** - Bukola is a software engineer and content creator living in New York City. On her youtube channel, she provides a lot of useful analysis of different parts and elements of the technology/software industry.
 
+**[Terminal Further Explained & Resources](https://www.vikingcodeschool.com/web-development-basics/a-command-line-crash-course)** - what to know more about exactly what powerful things your command line is capable of? Feel free to start here.
+
 **[Terminal Cheatsheet](https://gist.github.com/poopsplat/7195274)**
 
 **[Keyboard Shortcuts (MAC)](https://www.digitaltrends.com/computing/mac-keyboard-shortcuts/)**
 
 **[Visual Studio Code](https://code.visualstudio.com/)** - the IDE we will use during our programs
+

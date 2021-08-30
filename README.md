@@ -47,9 +47,3 @@ To graduate from this program you must meet the following requirements:
 ## How to Get Help
 
 **Office Hours:**
-
-Things to include during curriculum development:
-
-3. Discuss installations of homebrew, github, python, etc ...
-6. Kahoot Pre/Mid/Post Diagnostics
-7. 
