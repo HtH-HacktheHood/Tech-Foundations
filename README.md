@@ -36,6 +36,7 @@ Assignment | Date Assigned | Due Date
 ---------- | ------------- | -------- 
 **[Researching Your Career Interest!](https://docs.google.com/document/d/1WGQQL_viwHmGucSaAt36F9sognnf1rOkqoBbvLdVte0/edit?usp=sharing)** | October 5, 2021  | October 6, 2021
 **[Installation & Profile Creation](https://docs.google.com/document/d/1Sw7n3SOJSkdPxWY9t1MFErXaid6Dmo60eCke2KHiRME/edit?usp=sharing)** | October 7, 2021  | October 11, 2021
+**[Bashcrawl Terminal Tutorial Game](https://docs.google.com/document/d/1ATvRUG6sxsRSLUxh0mNM5SUwW7CBCjSqSWe9qSXncSM/edit?usp=sharing)** | October 11, 2021 | October 14, 2021
 
 ## Evaluation
 
