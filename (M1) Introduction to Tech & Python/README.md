@@ -44,3 +44,5 @@ Any additional resources you may need (online books, etc ...) can be found here.
 
 **[Visual Studio Code](https://code.visualstudio.com/)** - the IDE we will use during our programs
 
+**[The Git-Game Github](https://github.com/git-game)** - the Git-Game github profile with other git learning challenges
+
