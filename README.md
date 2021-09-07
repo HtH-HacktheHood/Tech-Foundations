@@ -4,7 +4,7 @@
 
 ## Program Description
 
-In this eight-week program, learners explore the **command line/terminal** to become more familiar with navigating a computer while building fundamental coding skills via the **Python language**. All learners graduate with these technical skills, an introductory **Github** portfolio, and information about career pathways in technology. No experience is required. Participants will have the opportunity to hear from corporate partners and to engage in conversations with technologists from varied backgrounds.
+In this eight-week program, learners explore the **command line/terminal** to become more familiar with navigating a computer while building fundamental coding skills via the **Python language**. All learners graduate with these technical skills, an introductory **Github** portfolio, and information about career pathways in technology. No experience is required. Participants will have the opportunity to hear from corporate partners and to engage in conversations with technologists from varied backgrounds.Our program's curriculum is grouped into four modules: **Introduction to Technology and Python**, **Python Fundamentals**, **Debugging and Testing** and **More Developer Tools**. More about each module can be found in the folders labeled **(M#)** above in the repository's tree.
 
 ## Learning Outcomes
 
