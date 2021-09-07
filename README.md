@@ -1,4 +1,4 @@
-# Hack the Hood's Tech Foundations
+# Hack the Hood's {Tech Vibe Check}
 
 <img alt="Intro to Tech" src="/images/intro.png" width="100%">
 
