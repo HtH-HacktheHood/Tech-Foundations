@@ -34,6 +34,7 @@ Assignment | Date Assigned | Due Date
 **[Installation & Profile Creation](https://docs.google.com/document/d/1Sw7n3SOJSkdPxWY9t1MFErXaid6Dmo60eCke2KHiRME/edit?usp=sharing)** | October 7, 2021  | October 11, 2021
 **[Bashcrawl Terminal Tutorial Game](https://docs.google.com/document/d/1ATvRUG6sxsRSLUxh0mNM5SUwW7CBCjSqSWe9qSXncSM/edit?usp=sharing)** | October 11, 2021 | October 14, 2021
 **[The Git-Game](https://docs.google.com/document/d/1u6xFG66KshoS7vUpKTlEPUo094WRG7eYVRnoskv0JPQ/edit?usp=sharing)** | October 12, 2021 | October 14, 2021
+**[Researching Python!](https://docs.google.com/document/d/1a8vpHLyEJk0CLrgDk-6LR9AzSosWdstp4oP9koM9WCU/edit?usp=sharing)** | October 14, 2021 | October 18, 2021
 
 ## Evaluation
 
