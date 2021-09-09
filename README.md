@@ -35,6 +35,7 @@ Assignment | Date Assigned | Due Date
 **[Bashcrawl Terminal Tutorial Game](https://docs.google.com/document/d/1ATvRUG6sxsRSLUxh0mNM5SUwW7CBCjSqSWe9qSXncSM/edit?usp=sharing)** | October 11, 2021 | October 14, 2021
 **[The Git-Game](https://docs.google.com/document/d/1u6xFG66KshoS7vUpKTlEPUo094WRG7eYVRnoskv0JPQ/edit?usp=sharing)** | October 12, 2021 | October 14, 2021
 **[Researching Python!](https://docs.google.com/document/d/1a8vpHLyEJk0CLrgDk-6LR9AzSosWdstp4oP9koM9WCU/edit?usp=sharing)** | October 14, 2021 | October 18, 2021
+**[Variables and Data Types Practice](https://docs.google.com/document/d/1hgoP1zJ285bm4w2AGB4I2_3M65N0eFKJmf4Gr6VOpwg/edit?usp=sharing)** | October 18, 2021 | October 20, 2021
 
 ## Evaluation
 
