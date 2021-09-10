@@ -25,10 +25,14 @@ All assignments are due by the start of your program session **(10am or 3pm)**  
 
 Assignment | Date Assigned | Due Date
 ---------- | ------------- | -------- 
-**[Variables and Data Types Practice](https://docs.google.com/document/d/1hgoP1zJ285bm4w2AGB4I2_3M65N0eFKJmf4Gr6VOpwg/edit?usp=sharing)** | October 18, 2021 | October 20, 2021
+**[Variables and Data Types](https://docs.google.com/document/d/1hgoP1zJ285bm4w2AGB4I2_3M65N0eFKJmf4Gr6VOpwg/edit?usp=sharing)** | October 18, 2021 | October 20, 2021
+**[List and Dictionaries](https://docs.google.com/document/d/1mBAMCttdltl9-f7dTw0D_RFEnUlEet5j6apmyUyO7XI/edit?usp=sharing)** | October 19, 2021 | October 21, 2021
 
 ## Additional Resources
 
 Any additional resources you may need (online books, etc ...) can be found here.
 
 **[More on Python Data Types](https://www.geeksforgeeks.org/python-data-types/#Sequence)**
+**[String Class Methods](https://www.programiz.com/python-programming/methods/string)**
+**[List Class Methods](https://www.programiz.com/python-programming/methods/list)**
+**[Dictionary Class Methods](https://www.programiz.com/python-programming/methods/dictionary)**
