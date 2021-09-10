@@ -4,11 +4,20 @@
 
 ## Module Description
 
-
+During this part of the program, we will focus on learning the basic fundamentals of the Python programming language. Python is a high-level interpreted language that has many benefits, including easy-to-read and easy-to-write syntax and powerful libraries that provide additional functionality. Even though Python is a great programming language for beginners, it is also used extensively for practical applications in engineering and data science. When you finish this course, you will be able to create Python programs for a variety of applications. We will cover concepts like **using variables**, **using data types and data structures**, **understanding conditionals and iteration**, and finally **defining custom python functions**.  
 
 ## Learning Outcomes
 
-
+* Writing first python script and seeing outputs in the terminal
+* Understanding, identifying and using python data types
+* Understanding and demonstrating the creation of python data types
+* Understanding how to access, update, add, and delete values within Python data
+* Understanding how to define and use functions
+* Understanding how to properly use each of the 5 python operator types (arithmetic, comparison, logical, membership, and conditional)
+* Understanding and demonstrating how to use for loops/iteration
+* Understanding how functions can help to improve code quality
+* Understanding how to define functions both with parameters and without
+* Describing the difference between parameters and arguments
 
 ## Assignment Schedule
 
@@ -21,3 +30,5 @@ Assignment | Date Assigned | Due Date
 ## Additional Resources
 
 Any additional resources you may need (online books, etc ...) can be found here.
+
+**[More on Python Data Types](https://www.geeksforgeeks.org/python-data-types/#Sequence)**
