@@ -33,6 +33,9 @@ Assignment | Date Assigned | Due Date
 Any additional resources you may need (online books, etc ...) can be found here.
 
 **[More on Python Data Types](https://www.geeksforgeeks.org/python-data-types/#Sequence)**
+
 **[String Class Methods](https://www.programiz.com/python-programming/methods/string)**
+
 **[List Class Methods](https://www.programiz.com/python-programming/methods/list)**
+
 **[Dictionary Class Methods](https://www.programiz.com/python-programming/methods/dictionary)**
