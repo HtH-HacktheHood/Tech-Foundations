@@ -34,6 +34,8 @@ Any additional resources you may need (online books, etc ...) can be found here.
 
 **[More on Python Data Types](https://www.geeksforgeeks.org/python-data-types/#Sequence)**
 
+**[Understanding Python Booleans](https://www.digitalocean.com/community/tutorials/understanding-boolean-logic-in-python-3)**
+
 **[String Class Methods](https://www.programiz.com/python-programming/methods/string)**
 
 **[List Class Methods](https://www.programiz.com/python-programming/methods/list)**
