@@ -27,7 +27,7 @@ Assignment | Date Assigned | Due Date
 ---------- | ------------- | -------- 
 **[Variables and Data Types](https://docs.google.com/document/d/1hgoP1zJ285bm4w2AGB4I2_3M65N0eFKJmf4Gr6VOpwg/edit?usp=sharing)** | October 18, 2021 | October 20, 2021
 **[List and Dictionaries](https://docs.google.com/document/d/1mBAMCttdltl9-f7dTw0D_RFEnUlEet5j6apmyUyO7XI/edit?usp=sharing)** | October 19, 2021 | October 21, 2021
-**[Practice w/ Functions, Looping, and Operators](https://docs.google.com/document/d/1a5JkmMzppJ049Nd9OJwWqjxp_ET81qaMJBm9QG5P0yM/edit?usp=sharing)** | October 20, 2021 | October 25, 2021
+**[Functions, Looping, and Operators](https://docs.google.com/document/d/1ascyfxFCyyPjA9VTHIlto-Ziquq9Zhj8hM-b9j6HTAY/edit?usp=sharing)** | October 20, 2021 | October 25, 2021
 
 ## Additional Resources
 
