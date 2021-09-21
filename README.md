@@ -24,7 +24,7 @@ In this eight-week program, learners explore the **command line/terminal** to be
 * **Morning Session** 10am - 1pm
 * **Evening Session** 3pm - 6pm
 
-<img alt="October Schedule" src="/images/october.png" width="100%">
+<img alt="October Schedule" src="/images/October_topics.png" width="100%">
 
 ## Assignment Schedule
 
