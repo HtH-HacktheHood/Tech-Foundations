@@ -26,7 +26,7 @@ All assignments are due by the start of your program session **(10am or 3pm)** o
 
 Assignment | Date Assigned | Due Date
 ---------- | ------------- | --------
-**[Python Error Handling]("(L15) Common Python Errors/error_handling)**
+**[Python Error Handling]("(L15) Common Python Errors/error_handling")**
 
 
 ## Additional Resources
