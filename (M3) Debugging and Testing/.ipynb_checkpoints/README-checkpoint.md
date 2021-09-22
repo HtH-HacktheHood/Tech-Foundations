@@ -1,6 +1,6 @@
 # Debugging and Testing
 
-<img alt="Debugging and Testing" src="../images/Testing-Vs-Debugging.jpeg" height="342px" width="100%">
+<img alt="Intro to Python" src="../images/Testing-Vs-Debugging.jpeg" height="342px" width="100%">
 
 ## Module Description
 

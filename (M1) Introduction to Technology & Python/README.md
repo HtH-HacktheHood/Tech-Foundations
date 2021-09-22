@@ -1,6 +1,6 @@
 # Tech Foundations: Intro to Tech and Python
 
-<img alt="Intro to Python" src="../images/python.png" height="342px" width="100%">
+<img alt="Intro to Programming" src="../images/programming.jpeg" height="342px" width="100%">
 
 ## Module Description
 

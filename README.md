@@ -1,6 +1,6 @@
 # Hack the Hood's {Tech Vibe Check}
 
-<img alt="Intro to Tech" src="/images/intro.png" width="100%">
+<img alt="HtH Tech Foundations" src="/images/intro.png" width="100%">
 
 ## Program Description
 
