@@ -25,7 +25,8 @@ We will also learn more about **testing** during this module. Testing your code 
 All assignments are due by the start of your program session **(10am or 3pm)** on the due date stated.
 
 Assignment | Date Assigned | Due Date
----------- | ------------- | -------- 
+---------- | ------------- | --------
+**[Python Error Handling]("(L15) Common Python Errors/error_handling)**
 
 
 ## Additional Resources
