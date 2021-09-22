@@ -10,6 +10,15 @@ We will also learn more about **testing** during this module. Testing your code 
 
 ## Learning Outcomes
 
+* Describe what errors and exceptions are
+* Handle errors and exceptions when they occur
+* Define and use your own custom exceptions
+* Define and identify bugs within code
+* Define debugging and understanding ways to debug Python code
+* How to use debugger in VS Code
+* Define the different types of testing and understand how to use them
+* Understand how to utilize various testing tools such as PyTest
+
 
 ## Assignment Schedule
 

@@ -1,6 +1,6 @@
 # Debugging and Testing
 
-<img alt="Intro to Python" src="../images/Testing-Vs-Debugging.jpeg" height="342px" width="100%">
+<img alt="Debugging and Testing" src="../images/Testing-Vs-Debugging.jpeg" height="342px" width="100%">
 
 ## Module Description
 
@@ -9,6 +9,15 @@ During this part of the program, we will focus on learning more about some of th
 We will also learn more about **testing** during this module. Testing your code is very important. Getting used to writing testing code and running this code in parallel is now considered a good habit. This is commonly referred to as **test-driven development**. Used wisely, this method helps to define your code’s intent more precisely and makes it easier for others to interact with your code. When something goes wrong or has to be changed, if your code has a good set of tests then you or other developers will rely largely on the test to fix the problem or modify a given behavior. Therefore the testing code will be read as much as or even more than the running code. Another use of the testing code is as an introduction to new developers. When someone will have to work on the code base, running and reading the related testing code is often the best thing that they can do to start. 
 
 ## Learning Outcomes
+
+* Describe what errors and exceptions are
+* Handle errors and exceptions when they occur
+* Define and use your own custom exceptions
+* Define and identify bugs within code
+* Define debugging and understanding ways to debug Python code
+* How to use debugger in VS Code
+* Define the different types of testing and understand how to use them
+* Understand how to utilize various testing tools such as PyTest
 
 
 ## Assignment Schedule
