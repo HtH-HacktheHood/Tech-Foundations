@@ -42,6 +42,7 @@ Assignment | Date Assigned | Due Date
 **[Functions, Looping, and Operators](https://docs.google.com/document/d/1ascyfxFCyyPjA9VTHIlto-Ziquq9Zhj8hM-b9j6HTAY/edit?usp=sharing)** | October 21, 2021 | October 26, 2021
 **[The Classic Snake Game](https://docs.google.com/document/d/1y1lupKRTKi6RypGR_S7xDvjD1JNbs9_QMNm8gp3N39E/edit?usp=sharing)** | October 25, 2021 | October 27, 2021
 **[Captain Rainbow's Checklist](https://docs.google.com/document/d/1j6QglX9jIp7WoE84mjZDPiSngCTb5yr9u2Hk7qG6h3w/edit?usp=sharing)** | October 27, 2021 | November 1, 2021
+**[Python Error Handling](https://github.com/HtH-HacktheHood/Tech-Foundations/blob/main/(M3)%20Debugging%20and%20Testing/(L15)%20Common%20Python%20Errors.ipynb)** | November 1, 2021 | November 3, 2021
 
 ## Evaluation
 
