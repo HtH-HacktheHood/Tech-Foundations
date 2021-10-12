@@ -19,7 +19,8 @@ In this eight-week program, learners explore the **command line/terminal** to be
 
 ## Schedule
 
-**Program Dates:** Monday, October 4 - Thursday, December 2, 2021  
+**Program Dates:** <br>Monday, October 4 - Thursday, December 2, 2021
+
 **Meeting Times:** <br>Mon - Thursday
 * **Morning Session** 10am - 1pm
 * **Evening Session** 3pm - 6pm
