@@ -22,12 +22,12 @@ In this eight-week program, learners explore the **command line/terminal** to be
 **Program Dates:** <br>Monday, October 4 - Thursday, December 2, 2021
 
 **Meeting Times:** <br>Mon - Thursday
-* **Morning Session** 10am - 1pm
-* **Evening Session** 3pm - 6pm
+* **[Morning Session](https://us06web.zoom.us/j/3435754269)** 10am - 1pm
+* **[Evening Session](https://us06web.zoom.us/j/5936873251)** 3pm - 6pm
 
 **Office Hour Times:** 
-* **Afternoon Session** 1pm - 3pm
-* **Evening Session** 6pm - 8pm
+* **[Afternoon Session](https://us06web.zoom.us/j/3435754269)** 1pm - 3pm
+* **[Evening Session](https://us06web.zoom.us/j/5936873251)** 6pm - 8pm
 
 ## Assignment Schedule
 
