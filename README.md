@@ -30,6 +30,7 @@ All assignments are due by the start of your program session **(10am or 3pm)**  
 
 **[Hack the Hood Community Guidelines](https://docs.google.com/document/d/1OXsOziwQqIKLQ-wkS7Uu1WkNJPytA05Uokyq_GjRPyI/edit?usp=sharing)**
 <br>
+<br>
 **[Learners' Community Guideline Amendments](https://docs.google.com/document/d/1iDlUT5LeE7aAWNnCO4Lu0z-oVtC0i_BUkPhMZw_opwM/edit?usp=sharing)**
 
 Assignment | Date Assigned | Due Date
