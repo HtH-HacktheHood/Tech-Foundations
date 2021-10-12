@@ -25,11 +25,11 @@ All assignments are due by the start of your program session **(10am or 3pm)**  
 
 Assignment | Date Assigned | Due Date
 ---------- | ------------- | -------- 
-**[Variables and Data Types](https://docs.google.com/document/d/1hgoP1zJ285bm4w2AGB4I2_3M65N0eFKJmf4Gr6VOpwg/edit?usp=sharing)** | October 19, 2021 | October 21, 2021
-**[List and Dictionaries](https://docs.google.com/document/d/1mBAMCttdltl9-f7dTw0D_RFEnUlEet5j6apmyUyO7XI/edit?usp=sharing)** | October 20, 2021 | October 25, 2021
-**[Functions, Looping, and Operators](https://docs.google.com/document/d/1ascyfxFCyyPjA9VTHIlto-Ziquq9Zhj8hM-b9j6HTAY/edit?usp=sharing)** | October 21, 2021 | October 26, 2021
-**[The Classic Snake Game](https://docs.google.com/document/d/1y1lupKRTKi6RypGR_S7xDvjD1JNbs9_QMNm8gp3N39E/edit?usp=sharing)** | October 25, 2021 | October 27, 2021
-**[Captain Rainbow's Checklist](https://docs.google.com/document/d/1j6QglX9jIp7WoE84mjZDPiSngCTb5yr9u2Hk7qG6h3w/edit?usp=sharing)** | October 27, 2021 | November 1, 2021
+**[Variables and Data Types](https://docs.google.com/document/d/1hgoP1zJ285bm4w2AGB4I2_3M65N0eFKJmf4Gr6VOpwg/edit?usp=sharing)** | ... | ...
+**[List and Dictionaries](https://docs.google.com/document/d/1mBAMCttdltl9-f7dTw0D_RFEnUlEet5j6apmyUyO7XI/edit?usp=sharing)** | ... | ...
+**[Functions, Looping, and Operators](https://docs.google.com/document/d/1ascyfxFCyyPjA9VTHIlto-Ziquq9Zhj8hM-b9j6HTAY/edit?usp=sharing)** | ... | ...
+**[The Classic Snake Game](https://docs.google.com/document/d/1y1lupKRTKi6RypGR_S7xDvjD1JNbs9_QMNm8gp3N39E/edit?usp=sharing)** | ... | ...
+**[Captain Rainbow's Checklist](https://docs.google.com/document/d/1j6QglX9jIp7WoE84mjZDPiSngCTb5yr9u2Hk7qG6h3w/edit?usp=sharing)** | ... | ...
 
 ## Additional Resources
 

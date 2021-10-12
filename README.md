@@ -1,6 +1,6 @@
 # Hack the Hood's Tech Foundations
 
-<img alt="HtH Tech Foundations" src="/images/hthintro.jpg" width="100%">
+<img alt="HtH Tech Foundations" src="/images/hthintro.jpg" height="342px" width="100%">
 
 ## Program Description
 
@@ -23,8 +23,6 @@ In this eight-week program, learners explore the **command line/terminal** to be
 **Meeting Times:** Mon - Thursday
 * **Morning Session** 10am - 1pm
 * **Evening Session** 3pm - 6pm
-
-<img alt="October Schedule" src="/images/October_topics.png" width="100%">
 
 ## Assignment Schedule
 

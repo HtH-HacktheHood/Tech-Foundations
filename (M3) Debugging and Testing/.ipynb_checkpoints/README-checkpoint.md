@@ -26,11 +26,9 @@ All assignments are due by the start of your program session **(10am or 3pm)** o
 
 Assignment | Date Assigned | Due Date
 ---------- | ------------- | --------
-**[Python Error Handling](https://github.com/HtH-HacktheHood/Tech-Foundations/blob/main/(M3)%20Debugging%20and%20Testing/(L15)%20Common%20Python%20Errors.ipynb)** | November 1, 2021 | November 3, 2021
-**[Python Debugging](https://github.com/HtH-HacktheHood/Tech-Foundations/blob/main/(M3)%20Debugging%20and%20Testing/(L16)%20Python%20Debugging.ipynb)** | November 2, 2021 | November 4, 2021
-**[Fizzbuzz Unit Testing](https://docs.google.com/document/d/1_kSKQrc2pZLD5MwZb2agPvFBKiwK6JyFbKKSTwYH71Q/edit?usp=sharing)** | November 3, 2021 | November 8, 2021
-
-
+**[Python Error Handling](https://github.com/HtH-HacktheHood/Tech-Foundations/blob/main/(M3)%20Debugging%20and%20Testing/(L15)%20Common%20Python%20Errors.ipynb)** | ... | ...
+**[Python Debugging](https://github.com/HtH-HacktheHood/Tech-Foundations/blob/main/(M3)%20Debugging%20and%20Testing/(L16)%20Python%20Debugging.ipynb)** | ... | ...
+**[Fizzbuzz Unit Testing](https://docs.google.com/document/d/1_kSKQrc2pZLD5MwZb2agPvFBKiwK6JyFbKKSTwYH71Q/edit?usp=sharing)** | ... | ...
 
 ## Additional Resources
 
