@@ -37,7 +37,7 @@ Any additional resources you may need (online books, etc ...) can be found here.
 
 **[Terminal Further Explained & Resources](https://www.vikingcodeschool.com/web-development-basics/a-command-line-crash-course)** ➾ what to know more about exactly what powerful things your command line is capable of? Feel free to start here.
 
-**[Terminal Cheatsheet](https://gist.github.com/poopsplat/7195274)**
+**[Terminal Cheatsheet](https://www.git-tower.com/blog/command-line-cheat-sheet/)**
 
 **[Bashcrawl and Other Terminal Challenges](https://opensource.com/article/19/10/learn-bash-command-line-games)**
 
