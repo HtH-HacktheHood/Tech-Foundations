@@ -59,7 +59,3 @@ To graduate from this program you must meet the following requirements:
 * _
 * _
 * _
-
-## How to Get Help
-
-**Office Hours:**
