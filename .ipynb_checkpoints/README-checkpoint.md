@@ -44,7 +44,7 @@ Assignment | Date Assigned | Due Date | Youtube Link
 **[Bashcrawl Terminal Tutorial Game](https://docs.google.com/document/d/1ATvRUG6sxsRSLUxh0mNM5SUwW7CBCjSqSWe9qSXncSM/edit?usp=sharing)** | October 13, 2021 | October 14, 2021 | [Youtube: Bashcrawl](https://www.youtube.com/watch?v=A2fu7-XAX40)
 **[The Git-Game](https://docs.google.com/document/d/1u6xFG66KshoS7vUpKTlEPUo094WRG7eYVRnoskv0JPQ/edit?usp=sharing)** | October 14, 2021 | October 18, 2021 | [Youtube: Git Game](https://youtu.be/cMaLH4UVjyc)
 **[Researching Python!](https://docs.google.com/document/d/1a8vpHLyEJk0CLrgDk-6LR9AzSosWdstp4oP9koM9WCU/edit?usp=sharing)** | October 20, 2021 | October 21, 2021 | N/A
-**[Variables and Data Types](https://docs.google.com/document/d/1hgoP1zJ285bm4w2AGB4I2_3M65N0eFKJmf4Gr6VOpwg/edit?usp=sharing)** | ... | ... | ...
+**[Variables and Data Types](https://docs.google.com/document/d/1hgoP1zJ285bm4w2AGB4I2_3M65N0eFKJmf4Gr6VOpwg/edit?usp=sharing)** | October 27, 2021 | October 28, 2021 | [Youtube: Python Variables](https://youtu.be/DFOY6m-4HUI)
 **[List and Dictionaries](https://docs.google.com/document/d/1mBAMCttdltl9-f7dTw0D_RFEnUlEet5j6apmyUyO7XI/edit?usp=sharing)** | ... | ... | ...
 **[Functions, Looping, and Operators](https://docs.google.com/document/d/1ascyfxFCyyPjA9VTHIlto-Ziquq9Zhj8hM-b9j6HTAY/edit?usp=sharing)** | ... | ... | ...
 **[The Classic Snake Game](https://docs.google.com/document/d/1y1lupKRTKi6RypGR_S7xDvjD1JNbs9_QMNm8gp3N39E/edit?usp=sharing)** | ... | ... | ...
@@ -56,6 +56,6 @@ Assignment | Date Assigned | Due Date | Youtube Link
 ## Evaluation
 
 To graduate from this program you must meet the following requirements:
-* _
+* Complete all assignments given during the program and have them pushed to Github
 * _
 * _

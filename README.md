@@ -56,6 +56,6 @@ Assignment | Date Assigned | Due Date | Youtube Link
 ## Evaluation
 
 To graduate from this program you must meet the following requirements:
-* _
+* Complete all assignments given during the program and have them pushed to Github
 * _
 * _
