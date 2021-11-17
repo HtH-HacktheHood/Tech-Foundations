@@ -39,16 +39,16 @@ All assignments are due by the start of your program session **(10am or 3pm)**  
 
 Assignment | Date Assigned | Due Date | Youtube Link
 ---------- | ------------- | -------- | ------------
-**[Researching Your Career Interest!](https://docs.google.com/document/d/1WGQQL_viwHmGucSaAt36F9sognnf1rOkqoBbvLdVte0/edit?usp=sharing)** | October 6, 2021  | October 7, 2021 | N/A
-**[Installation & Profile Creation](https://docs.google.com/document/d/1Sw7n3SOJSkdPxWY9t1MFErXaid6Dmo60eCke2KHiRME/edit?usp=sharing)** | October 12, 2021 | October 12, 2021 | N/A
-**[Bashcrawl Terminal Tutorial Game](https://docs.google.com/document/d/1ATvRUG6sxsRSLUxh0mNM5SUwW7CBCjSqSWe9qSXncSM/edit?usp=sharing)** | October 13, 2021 | October 14, 2021 | [Youtube: Bashcrawl](https://www.youtube.com/watch?v=A2fu7-XAX40)
-**[The Git-Game](https://docs.google.com/document/d/1u6xFG66KshoS7vUpKTlEPUo094WRG7eYVRnoskv0JPQ/edit?usp=sharing)** | October 14, 2021 | October 18, 2021 | [Youtube: Git Game](https://youtu.be/cMaLH4UVjyc)
-**[Researching Python!](https://docs.google.com/document/d/1a8vpHLyEJk0CLrgDk-6LR9AzSosWdstp4oP9koM9WCU/edit?usp=sharing)** | October 20, 2021 | October 21, 2021 | N/A
-**[Variables and Data Types](https://docs.google.com/document/d/1hgoP1zJ285bm4w2AGB4I2_3M65N0eFKJmf4Gr6VOpwg/edit?usp=sharing)** | October 27, 2021 | October 28, 2021 | [Youtube: Python Variables](https://youtu.be/DFOY6m-4HUI)
+**[Researching Your Career Interest!](https://docs.google.com/document/d/1WGQQL_viwHmGucSaAt36F9sognnf1rOkqoBbvLdVte0/edit?usp=sharing)** | October 6, 2021  | ... | N/A
+**[Installation & Profile Creation](https://docs.google.com/document/d/1Sw7n3SOJSkdPxWY9t1MFErXaid6Dmo60eCke2KHiRME/edit?usp=sharing)** | October 12, 2021 | ... | N/A
+**[Bashcrawl Terminal Tutorial Game](https://docs.google.com/document/d/1ATvRUG6sxsRSLUxh0mNM5SUwW7CBCjSqSWe9qSXncSM/edit?usp=sharing)** | October 13, 2021 | ... | [Youtube: Bashcrawl](https://www.youtube.com/watch?v=A2fu7-XAX40)
+**[The Git-Game](https://docs.google.com/document/d/1u6xFG66KshoS7vUpKTlEPUo094WRG7eYVRnoskv0JPQ/edit?usp=sharing)** | October 14, 2021 | ... | [Youtube: Git Game](https://youtu.be/cMaLH4UVjyc)
+**[Researching Python!](https://docs.google.com/document/d/1a8vpHLyEJk0CLrgDk-6LR9AzSosWdstp4oP9koM9WCU/edit?usp=sharing)** | October 20, 2021 | ... | N/A
+**[Variables and Data Types](https://docs.google.com/document/d/1hgoP1zJ285bm4w2AGB4I2_3M65N0eFKJmf4Gr6VOpwg/edit?usp=sharing)** | October 27, 2021 | ... | [Youtube: Python Variables](https://youtu.be/DFOY6m-4HUI)
 **[List and Dictionaries](https://docs.google.com/document/d/1mBAMCttdltl9-f7dTw0D_RFEnUlEet5j6apmyUyO7XI/edit?usp=sharing)** | November 2, 2021 | ... | [Youtube: List and Dictionaries](https://youtu.be/V4_nHbjUywk)
 **[Functions, Looping, and Operators](https://docs.google.com/document/d/1ascyfxFCyyPjA9VTHIlto-Ziquq9Zhj8hM-b9j6HTAY/edit?usp=sharing)** | November 3, 2021 | ... | [Youtube: Functions, Operators, Looping](https://www.youtube.com/watch?v=IdmFtNXqCIk)
 **[The Classic Snake Game](https://docs.google.com/document/d/1y1lupKRTKi6RypGR_S7xDvjD1JNbs9_QMNm8gp3N39E/edit?usp=sharing)** | November 9, 2021 | ... | [Youtube: The Classic Snake Game](https://youtu.be/26Ql-7_wRrI)
-**[Captain Rainbow's Checklist](https://docs.google.com/document/d/1j6QglX9jIp7WoE84mjZDPiSngCTb5yr9u2Hk7qG6h3w/edit?usp=sharing)** | ... | ... | ...
+**[Captain Rainbow's Checklist](https://docs.google.com/document/d/1j6QglX9jIp7WoE84mjZDPiSngCTb5yr9u2Hk7qG6h3w/edit?usp=sharing)** | November 16, 2021 | ... | ...
 **[Python Error Handling](https://github.com/HtH-HacktheHood/Tech-Foundations/blob/main/(M3)%20Debugging%20and%20Testing/(L15)%20Common%20Python%20Errors.ipynb)** | ... | ... | ...
 **[Python Debugging](https://github.com/HtH-HacktheHood/Tech-Foundations/blob/main/(M3)%20Debugging%20and%20Testing/(L16)%20Python%20Debugging.ipynb)** | ... | ... | ...
 **[Fizzbuzz Unit Testing](https://docs.google.com/document/d/1_kSKQrc2pZLD5MwZb2agPvFBKiwK6JyFbKKSTwYH71Q/edit?usp=sharing)** | ... | ... | ...

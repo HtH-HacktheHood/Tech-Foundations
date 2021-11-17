@@ -21,11 +21,11 @@ All assignments are due by the start of your program session **(10am or 3pm)** o
 
 Assignment | Date Assigned | Due Date | Youtube Link
 ---------- | ------------- | -------- | ------------
-**[Researching Your Career Interest!](https://docs.google.com/document/d/1WGQQL_viwHmGucSaAt36F9sognnf1rOkqoBbvLdVte0/edit?usp=sharing)** | October 6, 2021  | October 7, 2021 | N/A
-**[Installation & Profile Creation](https://docs.google.com/document/d/1Sw7n3SOJSkdPxWY9t1MFErXaid6Dmo60eCke2KHiRME/edit?usp=sharing)** | October 12, 2021 | October 12, 2021 | N/A
-**[Bashcrawl Terminal Tutorial Game](https://docs.google.com/document/d/1ATvRUG6sxsRSLUxh0mNM5SUwW7CBCjSqSWe9qSXncSM/edit?usp=sharing)** | October 13, 2021 | October 14, 2021 | [Youtube: Bashcrawl](https://www.youtube.com/watch?v=A2fu7-XAX40)
-**[The Git-Game](https://docs.google.com/document/d/1u6xFG66KshoS7vUpKTlEPUo094WRG7eYVRnoskv0JPQ/edit?usp=sharing)** | October 14, 2021 | October 18, 2021 | [Youtube: Git Game](https://youtu.be/cMaLH4UVjyc)
-**[Researching Python!](https://docs.google.com/document/d/1a8vpHLyEJk0CLrgDk-6LR9AzSosWdstp4oP9koM9WCU/edit?usp=sharing)** | October 20, 2021 | October 21, 2021 | N/A
+**[Researching Your Career Interest!](https://docs.google.com/document/d/1WGQQL_viwHmGucSaAt36F9sognnf1rOkqoBbvLdVte0/edit?usp=sharing)** | October 6, 2021  | ... | N/A
+**[Installation & Profile Creation](https://docs.google.com/document/d/1Sw7n3SOJSkdPxWY9t1MFErXaid6Dmo60eCke2KHiRME/edit?usp=sharing)** | October 12, 2021 | ... | N/A
+**[Bashcrawl Terminal Tutorial Game](https://docs.google.com/document/d/1ATvRUG6sxsRSLUxh0mNM5SUwW7CBCjSqSWe9qSXncSM/edit?usp=sharing)** | October 13, 2021 | ... | [Youtube: Bashcrawl](https://www.youtube.com/watch?v=A2fu7-XAX40)
+**[The Git-Game](https://docs.google.com/document/d/1u6xFG66KshoS7vUpKTlEPUo094WRG7eYVRnoskv0JPQ/edit?usp=sharing)** | October 14, 2021 | ... | [Youtube: Git Game](https://youtu.be/cMaLH4UVjyc)
+**[Researching Python!](https://docs.google.com/document/d/1a8vpHLyEJk0CLrgDk-6LR9AzSosWdstp4oP9koM9WCU/edit?usp=sharing)** | October 20, 2021 | ... | N/A
 
 ## Additional Resources
 
