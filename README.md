@@ -59,3 +59,11 @@ To graduate from this program you must meet the following requirements:
 * Complete all assignments given during the program and have them pushed to Github
 * _
 * _
+
+## Final Project Prompts
+
+First Final Project Prompt —> Think back to what you said your career interest was at the beginning of the program. Has that changed? If so, what has your interest changed to? Why did it change? Can you provide any valuable information about the new career you are interested in (i.e. salaries, notable people, job responsibilities, etc) If it hasn’t changed, provide this same information for your original interest and describe what makes you remain interested in that career.
+
+Second Final Project Prompt —> This program was designed to help introduce you to sociotechnical issues and topics as well as how technology influences social justice. What area(s) of technology and social and racial justice are most interesting to you? How would you like to use technology to address these issues? Is there a role or job type that you would like to pursue based on your experience in this program? Please share 5-10 sentences.
+
+Third Final Project Prompt —> What technical career skills (hard or soft skills) have you learned in your 8 weeks with HTH and how do you plan to use these skills moving forward to help progress your career?
